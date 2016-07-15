@@ -1,0 +1,22 @@
+{
+  "name": "wow-tool",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "wow-tool": "bin/wow-tool"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nutteam/wow-tool.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nutteam/wow-tool/issues"
+  },
+  "homepage": "https://github.com/nutteam/wow-tool"
+}
